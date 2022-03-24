@@ -5,6 +5,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoMinhTri2010&layout=compact">
 <p align="center"><br>
   <a href="https://github.com/NotSaksh">
-    <img src="https://lanyard.cnrad.dev/api/871262585683587103"/>
+    <img src="https://lanyard.cnrad.dev/api/921430546813419550"/>
      </a>
 </p>
