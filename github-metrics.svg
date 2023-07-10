@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1952" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1669" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            96883 Commits
+                            96888 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    11.4 MB used
+                                    11.7 MB used
                                 </div>
                             </section>
                             <section>
@@ -321,8 +321,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="450.526953361599" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="450.526953361599" y="0" width="9.47304663840097" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="450.87603305785126" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="450.87603305785126" y="0" width="9.12396694214876" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -345,7 +345,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 47 commits)</small>
+                    <small class="h-details">(computed from last 52 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2422,110 +2422,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 363 commits in
-                                        <span class="repo">FlyTri/paint-github-subscription-c7070</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3995555</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37c61f1</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dbd408f</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3e7c93</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e47a25</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba94c72</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7f221d</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#002a83d</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80e215f</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#598da22</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e092b44</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6470bc2</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#71c5860</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a9d7dd7</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a777fd</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fcad6e6</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b589469</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f827dc</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d9b5dd</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#541f835</div>
-                                        <div class="message">paint-github</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ADB-Bot/ADB</span>
+                                        <span class="repo">FlyTri/lavazing</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#57ea7ee</div>
+                                        <div class="sha">#8711b42</div>
                                         <div class="message">Update</div>
                                     </div>
                                 </div>
@@ -2545,8 +2449,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#90cb20e</div>
-                                        <div class="message">Update</div>
+                                        <div class="sha">#bc1a248</div>
+                                        <div class="message">update</div>
                                     </div>
                                 </div>
                             </section>
@@ -2565,8 +2469,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3b09e7c</div>
-                                        <div class="message">Update</div>
+                                        <div class="sha">#e1ebcaf</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -2575,14 +2479,38 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">main</span>
-                                        in
+                                        Pushed 1 commit in
                                         <span class="repo">FlyTri/lavazing</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#392f14d</div>
+                                        <div class="message">build</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">FlyTri/lavazing</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b4d08ba</div>
+                                        <div class="message">Update</div>
                                     </div>
                                 </div>
                             </section>
@@ -2674,7 +2602,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jul 2023, 10:05:34 (timezone Asia/Saigon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Jul 2023, 11:25:10 (timezone Asia/Saigon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
