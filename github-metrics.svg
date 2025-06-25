@@ -401,7 +401,7 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
-                            <div class="label" title="">nodejs</div>
+                            <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
                         </div>
                     </section>
                 </div>
@@ -2555,7 +2555,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jun 2025, 03:30:27 (timezone Asia/Saigon) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 26 Jun 2025, 04:25:39 (timezone Asia/Saigon) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
